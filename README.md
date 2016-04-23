@@ -1,2 +1,2 @@
-# M-klarbir-Dyhr-Rumson
-Final Projekt under client-web-programmering
+## Dependencies
+* mongod server instance running (local data dir optional)
