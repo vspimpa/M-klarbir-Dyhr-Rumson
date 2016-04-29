@@ -2,9 +2,10 @@ Real-Estate Agency - Dyhr&Rumson (Web Application)
 
 ## Dependencies
 
-* angular,
-* mongod server instance running (local data dir optional),
+* angularJS,
+* mongodb server instance running (local data dir optional),
 * mongresto,
+* ui-bootstrap,
 * mongo-express,
 * gulp,
 * gulp-less,
